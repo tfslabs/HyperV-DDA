@@ -556,7 +556,7 @@ namespace TheFlightSims.HyperVDDA
             {
                 // If there is no VM selected on the list
                 _ = MessageBox.Show(
-                    "Please select a virtual machine to add a device",
+                    "Please select a virtual machine to change the guest cache type",
                     "Warning",
                     MessageBoxButton.OK,
                     MessageBoxImage.Warning
