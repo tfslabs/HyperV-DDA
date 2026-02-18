@@ -7,14 +7,14 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 
-using TheFlightSims.HyperVDPD.DefaultUI;
-using TheFlightSims.HyperVDPD.WMIProperties;
+using TheFlightSims.HyperVDDA.DefaultUI;
+using TheFlightSims.HyperVDDA.WMIProperties;
 
 /*
- * Primary namespace for HyperV-DPD application
+ * Primary namespace for HyperV-DDA application
  *  It contains the main window and all related methods for the core application
  */
-namespace TheFlightSims.HyperVDPD
+namespace TheFlightSims.HyperVDDA
 {
     /*
      * Main Window class

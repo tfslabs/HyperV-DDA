@@ -1,10 +1,10 @@
 ﻿using System.Windows;
 
 /*
- * Primary namespace for HyperV-DPD application
+ * Primary namespace for HyperV-DDA application
  *  It contains the main window and all related methods for the core application
  */
-namespace TheFlightSims.HyperVDPD
+namespace TheFlightSims.HyperVDDA
 {
     /*
      * Change Memory Space Window

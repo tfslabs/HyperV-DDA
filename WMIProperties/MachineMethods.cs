@@ -7,7 +7,7 @@ using System.Security;
  * The default WMI method class includes:
  *  1. MachineMethods.cs - A base class for WMI operations on local and remote machines
  */
-namespace TheFlightSims.HyperVDPD.WMIProperties
+namespace TheFlightSims.HyperVDDA.WMIProperties
 {
     /*
      * Machine Method class

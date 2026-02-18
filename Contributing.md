@@ -7,7 +7,7 @@
 To clone the repo, run, use this command
 
 ```bash
-git clone https://github.com/tfslabs/HyperV-DPD.git
+git clone https://github.com/tfslabs/HyperV-DDA.git
 ```
 
 ### Build with Visual Studio (only for Windows)
@@ -19,6 +19,4 @@ To contribute, you may need Visual Studio 2022. Required Visual Studio 2022 SDKs
 
 ## Build from source
 
-You can open the `HyperV-DPD.csproj` to open the project in Visual Studio
-
-However, since this project is a part of [Windows Server Management Tool](https://github.com/TheFlightSims/windowsserver-mgmttools), you may need to clone the whole repo, before using Visual Studio, because the full Visual Studio Solution are already configured with valid build configurations.
+You can open the `HyperV-DDA.csproj` to open the project in Visual Studio

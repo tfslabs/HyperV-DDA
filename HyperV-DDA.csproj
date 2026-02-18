@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CAF55C7C-B0E5-4E0F-8FF3-646B74084CF3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>TheFlightSims.HyperVDPD</RootNamespace>
-    <AssemblyName>Hyper-V DPD</AssemblyName>
+    <RootNamespace>TheFlightSims.HyperVDDA</RootNamespace>
+    <AssemblyName>Hyper-V DDA</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -51,7 +51,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <DocumentationFile>bin\Release\x86\Hyper-V DPD.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\x86\Hyper-V DDA.xml</DocumentationFile>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
@@ -76,7 +76,7 @@
     <WarningLevel>4</WarningLevel>
     <Prefer32Bit>false</Prefer32Bit>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <DocumentationFile>bin\Release\x64\Hyper-V DPD.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\x64\Hyper-V DDA.xml</DocumentationFile>
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <PropertyGroup />
