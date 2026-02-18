@@ -6,12 +6,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Hyper-V DPD")]
-[assembly: AssemblyDescription("Hyper-V DPD allows virtual machines using the direct I/O of hardware (such as GPU) for general computing")]
+[assembly: AssemblyTitle("Hyper-V DDA")]
+[assembly: AssemblyDescription("Hyper-V DDA allows virtual machines using the direct I/O of hardware (such as GPU) for general computing")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("TheFlightSims")]
-[assembly: AssemblyProduct("Hyper-V DPD")]
-[assembly: AssemblyCopyright("Copyright © 2025")]
+[assembly: AssemblyProduct("Hyper-V DDA")]
+[assembly: AssemblyCopyright("Copyright © 2026")]
 [assembly: AssemblyTrademark("TheFlightSims")]
 [assembly: AssemblyCulture("")]
 
@@ -47,7 +47,7 @@ using System.Windows;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("1.0.0.2503")]
-[assembly: AssemblyFileVersion("1.0.0.2503")]
+[assembly: AssemblyVersion("1.0.0.2602")]
+[assembly: AssemblyFileVersion("1.0.0.2602")]
 [assembly: Guid("8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a")]
 [assembly: NeutralResourcesLanguage("en")]

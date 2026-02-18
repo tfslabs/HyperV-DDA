@@ -9,7 +9,7 @@ using System.Windows;
  * 1. ConnectForm.xaml - A form to connect to a local or remote computer
  * 2. ExceptionView.xaml - A window to handle exception messages
  */
-namespace TheFlightSims.HyperVDPD.DefaultUI
+namespace TheFlightSims.HyperVDDA.DefaultUI
 {
     /*
      * Exception View class

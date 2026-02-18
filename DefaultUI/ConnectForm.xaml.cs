@@ -6,7 +6,7 @@ using System.Windows;
  * 2. ExceptionView.xaml - A window to handle exception messages
  * 3. About.xaml - A window to display information about the application
  */
-namespace TheFlightSims.HyperVDPD.DefaultUI
+namespace TheFlightSims.HyperVDDA.DefaultUI
 {
     /*
      * Connection Form class
